@@ -20,7 +20,7 @@ func main() {
 
 func numbers() {
 
-	fmt.Println("Hello Numbers")
+	fmt.Println("Hello Numbers from 1 to 100")
 	// for i := 1; i <= 10000; i++ {
 	// 	// time.Sleep(2 * time.Millisecond)
 	// 	fmt.Printf("%d ", i)
@@ -29,7 +29,7 @@ func numbers() {
 }
 
 func alphabets() {
-	fmt.Println("Hello Alphabets")
+	fmt.Println("Hello Alphabets from A to z")
 	// for i := 'a'; i <= 'e'; i++ {
 	// 	// time.Sleep(3 * time.Millisecond)
 	// 	fmt.Printf("%c ", i)
